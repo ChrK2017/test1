@@ -1,1 +1,2 @@
 Dette er en testfil
+Nu har vi nogle flere linjer
